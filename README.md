@@ -40,19 +40,6 @@ This project analyzes a TV series using a complete NLP pipeline powered by Pytho
 
 ---
 
-##  Project Structure
-
-project/
-├── data/ # scraped and cleaned data
-├── notebooks/ # analysis notebooks
-├── scripts/ # main python scripts
-├── models/ # saved models + outputs
-├── visuals/ # graphs and plots
-└── README.md
-
-
----
-
 ##  How to Run
 
 Install dependencies:
